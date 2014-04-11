@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-### Manfreds notes, statements, ideas and announcements
+### Manfreds notes, statements, whys and wherefores, ideas, news, announcements, this and that, ...
   
 Here's a list of posts so far:
 
